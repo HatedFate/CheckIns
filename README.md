@@ -8,4 +8,4 @@ ALSO:
 - MAKE SURE TO DOWNLOAD SQLITE3
 - MAKE SURE TO DOWNLOAD PYTZ
 
-( I am open to suggestion! Please send them my way if you want to improve my code! )
+( I am open to suggestion! Please send them my way if anyone want to improve my code! )
