@@ -8,4 +8,8 @@ ALSO:
 - MAKE SURE TO DOWNLOAD SQLITE3
 - MAKE SURE TO DOWNLOAD PYTZ
 
+Links are provided below:
+- https://pypi.org/project/pytz/
+- https://www.sqlite.org/download.html
+
 ( I am open to suggestion! Please send them my way if anyone want to improve my code! )
