@@ -1,6 +1,6 @@
 Part II: Create GUI interface
 
-- Will be added this when time is available.
+- Will be added this week when time is available.
 
 
 
